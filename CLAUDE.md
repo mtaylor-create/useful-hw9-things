@@ -1,4 +1,4 @@
-# MARF - Expo Project
+# Expo Project
 
 ## Expo Skills
 
